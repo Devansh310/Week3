@@ -20,6 +20,7 @@ public class Gitexample {
         //date 24/1/2020
          System.out.println("This is an example trying to fetch");
          System.out.println("This is an example trying to fetch and merg");
+        
     }
     
 }
